@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HelloPXL.Pages.HelloPage"
+             Title="PXL App">
+    <Grid>
+        <Image Source="https://www.pxl.be/img/logo.png"/>
+        <Label Text="Hello PXL!" HorizontalOptions="CenterAndExpand" VerticalOptions="EndAndExpand" FontSize="Large"/>
+    </Grid>
+</ContentPage>
