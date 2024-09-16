@@ -8,8 +8,6 @@ namespace HelloPXL
         {
             InitializeComponent();
 
-            Routing.RegisterRoute(nameof(MenuPage), typeof(MenuPage));
-            Routing.RegisterRoute(nameof(AboutPage), typeof(AboutPage));
         }
     }
 }
