@@ -19,6 +19,8 @@
 
 > Tip: [Layouts](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/?view=net-maui-8.0) & [Alignment](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/?view=net-maui-8.0)
 
+<img src="assets/hellopxl.png" alt="screenshot" height="400" />
+
 ## Deel 2 - Navigatie
 - Maak 3 nieuwe content pages aan in de *Pages* folder:
 	- HomePage
@@ -53,3 +55,7 @@ Routing.RegisterRoute(nameof(MenuPage), typeof(MenuPage));
 Routing.RegisterRoute(nameof(AboutPage), typeof(AboutPage));
 ```
 - Zorg ervoor dat de knoppen navigeren naar de juiste pagina
+
+<img src="assets/homepage.png" alt="screenshot" height="400" />
+<img src="assets/menupage.png" alt="screenshot" height="400" />
+<img src="assets/aboutpage.png" alt="screenshot" height="400" />
