@@ -19,7 +19,7 @@
 
 > Tip: [Layouts](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/?view=net-maui-8.0) & [Alginment](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/?view=net-maui-8.0)
 
-## Navigatie
+## Deel 2 - Navigatie
 - Maak 3 nieuwe content pages aan in de *Pages* folder:
 	- HomePage
 	- MenuPage
