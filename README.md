@@ -56,4 +56,4 @@ Routing.RegisterRoute(nameof(AboutPage), typeof(AboutPage));
 ```
 - Zorg ervoor dat de knoppen navigeren naar de juiste pagina
 
-<img src="assets/homepage.png" alt="screenshot" height="400" /> | <img src="assets/menupage.png" alt="screenshot" height="400" /> | <img src="assets/aboutpage.png" alt="screenshot" height="400" />
+<img src="assets/homepage.png" alt="screenshot" height="400" /> <img src="assets/menupage.png" alt="screenshot" height="400" /> <img src="assets/aboutpage.png" alt="screenshot" height="400" /> 
