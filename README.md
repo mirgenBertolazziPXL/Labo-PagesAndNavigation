@@ -17,7 +17,7 @@
 	- Wat is het gevolg?
 	- Welke stappen moeten ondernomen worden?
 
-> Tip: [Layouts](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/?view=net-maui-8.0) & [Alginment](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/?view=net-maui-8.0)
+> Tip: [Layouts](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/?view=net-maui-8.0) & [Alignment](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/?view=net-maui-8.0)
 
 ## Deel 2 - Navigatie
 - Maak 3 nieuwe content pages aan in de *Pages* folder:
