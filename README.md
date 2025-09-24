@@ -11,7 +11,7 @@
 	- zorg dat de image het enige *child* is
 	- gebruik de [online documentatie](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/controls/?view=net-maui-8.0) om het PXL logo te tonen via deze URI:
 	``` 
-	[https://www.pxl.be/img/logo.png](https://www.pxl.be/media/mn0phfug/image.png)
+	https://www.pxl.be/media/mn0phfug/image.png
 	```
 - Voeg nu onder de image een label toe met de tekst "Hello PXL!"
 	- Wat is het gevolg?
